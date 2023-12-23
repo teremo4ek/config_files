@@ -22,7 +22,7 @@ if command -v pyenv 1>/dev/null 2>&1; then
 fi
 
 
-export PATH=/Users/ter0m/bin:$PATH
+export PATH=~/bin:$PATH
 
 #alias mc='EDITOR=subl mc'
 
